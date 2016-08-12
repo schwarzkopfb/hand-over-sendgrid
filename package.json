@@ -1,0 +1,35 @@
+{
+  "name": "hand-over-sendgrid",
+  "version": "1.0.0-0",
+  "description": "Sendgrid plugin for Handover",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarzkopfb/hand-over-sendgrid.git"
+  },
+  "keywords": [
+    "hand",
+    "over",
+    "handover",
+    "send",
+    "grid",
+    "sendgrid",
+    "email",
+    "e-mail",
+    "plugin"
+  ],
+  "author": "Schwarzkopf Balázs <schwarzkopfb@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwarzkopfb/hand-over-sendgrid/issues"
+  },
+  "homepage": "https://github.com/schwarzkopfb/hand-over-sendgrid#readme",
+  "devDependencies": {
+    "hand-over": "^1.0.0-2",
+    "process.nexttick": "^1.0.1",
+    "tap": "^6.3.2"
+  }
+}
