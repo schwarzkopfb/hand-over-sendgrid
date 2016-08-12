@@ -31,5 +31,8 @@
     "hand-over": "^1.0.0-2",
     "process.nexttick": "^1.0.1",
     "tap": "^6.3.2"
+  },
+  "dependencies": {
+    "sendgrid": "^4.0.1"
   }
 }
